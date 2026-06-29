@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc046/tls/v1/juan/65
+seq: 65
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 亦界以丙午壬甲斜弦則午丙丁之丙角卽乙甲酉之甲角葢辰甲酉之甲角卽乙甲亥之甲角亥甲酉之甲角卽乙丙子甲縱方之甲角亦卽乙丙子甲縱方之乙角規而小之則癸壬辛庚與午未丁等故併乙甲兩角爲丙角午丁也若不併兩角以爲角則以初均對角之外角加減次輪之界角以爲角以初均之角度本天之半徑更合均輪之半徑於負輪之半徑求之乃得對角有對角斯得對角之外角葢均輪心左旋近於最高其行度未可爲角而併之若以爲角必減半周也
+  hash: sha256:7b9fcf5f726c2c21258f74da963523ea53b29f99abbb130c622dcb9faf801da2
+metadata:
+  title: 釋輪
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc046.xml
+hash: sha256:496fb4c4e7db649d3c02901e4efb18d954b698ea11b903beb16474c586215fad

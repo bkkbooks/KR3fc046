@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc046/tls/v1/juan/35
+seq: 35
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 釋輪
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc046.xml
+hash: sha256:f8a3912505bacdaa94acfa7a8d50127790d6c9d96c696ca9eb70673108e8bb3e

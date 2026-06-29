@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc046/tls/v1/juan/73
+seq: 73
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 最遠行距日度右旋金本輪心自太陽本天最高右旋均輪心自本輪最遠左旋伏見輪心自均輪最近倍均輪心右旋星自伏見輪平遠右旋行伏見度水本輪心自太陽本天最高右旋均輪心自本輪最遠左旋伏見輪心自均輪最遠三倍右旋星自伏見輪平遠右旋行伏見度右左旋右旋表
+  hash: sha256:9a29326fdefb132c61e2a9ed3fd207fefa216e57ca3abd6149abfa39b90c5b25
+metadata:
+  title: 釋輪
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc046.xml
+hash: sha256:bf4661329dca49b1004a3d4d4b0beb141f02f7ee38841339d433787c7bf2bbf1

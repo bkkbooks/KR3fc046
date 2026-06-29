@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc046/tls/v1/juan/57
+seq: 57
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 於丙與丑甲為一貫次輪既移則最遠最近不能與丑甲貫以舊次輪之心為最近自此起算用丙即不啻用丑也若次均輪之心不與次輪之最遠合則次輪平行之徑不可以為邊亦先併所知之角得外角又半行度之所餘而加減之以為角即用通弦以為邊通弦者兩正弦相合也截行度為弧背有弧背必有通弦有通弦必有界角界角之度倍於角度新次輪之界角為舊次輪之角蓋兩輪相貫在此為通弦在彼為半徑故以行度之所餘半之以加減外角也
+  hash: sha256:40592be2d3094c4b42a2ac75efc79a9e899b8afc9ed4b9b06caa89f89b0cf1a2
+metadata:
+  title: 釋輪
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc046.xml
+hash: sha256:ea23c9c042b6e635fb4dc009f85c73e06750fe6792eddb0ecf9ccbd53857271f

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc046/tls/v1/juan/14
+seq: 14
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之合此遠近上下之所由殊左旋右旋之所由判也
+  hash: sha256:b5a73d7102bbb5ae0c56cf1d1b98949d7227e78c558cc98dc591fc82c4d83ea2
+metadata:
+  title: 釋輪
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc046.xml
+hash: sha256:f186669a9cef917b5bd71aa83fe65c0a6fc1d45980a1ed4e25f912b0d6c0fff1

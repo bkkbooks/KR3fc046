@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc046/tls/v1/juan/16
+seq: 16
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 初未設均輪則次輪與本輪兩周相切旣分本輪爲均輪而均輪之周與次輪之周兩相切矣
+  hash: sha256:fc2e5dbb122143b145d196584ed37aa8cb5eaaf988146952cec48295798ac336
+metadata:
+  title: 釋輪
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc046.xml
+hash: sha256:87b3e9c4e3cd11c3c13e6fbb043eb31259fa4298c8cda5259327b58a74f4d7e0

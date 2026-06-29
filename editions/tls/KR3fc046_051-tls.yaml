@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc046/tls/v1/juan/51
+seq: 51
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 均凡行度過半周則用其度之餘按乙丑爲甲角復以甲角丙角丙甲邊或丙子弧求得子甲角爲次均之一邊以次輪半徑子辰爲一邊行度辰未餘弧卽子角有子角有子辰邊有子甲邊可求甲角丑亥於平行加乙丑外又加丑亥爲次均數也自未至酉爲半周歴酉至辰則過半周行度爲未酉辰餘弧爲辰未故用辰未也又按酉子丑未爲一線丑以前爲初均得數次均自丑起卽自酉起次輪視本天爲遠近於此益明月之次均知兩邊而行度不可以爲用以初均所知之二角併之以爲角兩角之線相交其外角卽兩角併之
+  hash: sha256:cd2521f0544c159c9bdff57b93a43739fdbf276aaa2c2752994714507099536b
+metadata:
+  title: 釋輪
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc046.xml
+hash: sha256:43ee5a5f7339b134bf688f833631f9481e5eb883cc1262d39c48dbde18453d6d

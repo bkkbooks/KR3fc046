@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc046/tls/v1/juan/20
+seq: 20
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 本天用本輪之次輪次均求合倍離用負輪之次輪次輪之地易而相承以心故與均輪之徑平行也按梅勿𤲅徵君云天西行七政之本輪皆從天而西轉其行皆向最高日天東移月五星之合望次輪皆從日而東運其行皆向日又云本天挈小輪心東移而七政在小輪上常向最高殆其精氣有以攝之循嘗細推其理因兩心差而立最高之名由最高規爲不同心圈其跡緣最高而周設爲本輪易右行爲左行在右行爲緣最高而下在左行則爲常向最高以爲常向最高可以爲順最高右行亦可不必眞有小輪而本天挈其心也月五星依日而測故因朔望兩弦設爲次輪又設爲次均輪以其自朔望而測自以
+  hash: sha256:990df8dff146c1b4d439f301d4220ed6e02cb86f373ffd97bb16eac5d9f42d27
+metadata:
+  title: 釋輪
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc046.xml
+hash: sha256:d068bfe53ec59de861cdf2c95b2d09ad5c5d9bf61529bf72acab567d7035c078

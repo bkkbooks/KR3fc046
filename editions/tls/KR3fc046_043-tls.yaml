@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc046/tls/v1/juan/43
+seq: 43
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 按圖乙丑爲均數亦卽甲角故求得甲角卽得乙丑均數也欲求甲角必先求乙丙丁句股形午卯爲均輪心行本輪之餘弧亦卽本輪心之乙角此有數者也以卯丁均輪半徑減卯乙本輪半徑爲丁乙亦有數者也有乙角有乙丁邊加以丙直角可求丙乙邊及丙丁邊有丙乙邊加乙甲本天半徑又有數者也均輪心自最近所行之度丁子其通弦加丙丁邊又有數者也有丙子邊有丙甲邊仍加以丙直角可求甲角卽乙丑也實體在子本輪心在乙子在乙前則用加子在乙後則用減
+  hash: sha256:8600927079267de75d84e6c142efcf4bb29215162dd52dda47da11198691c472
+metadata:
+  title: 釋輪
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc046.xml
+hash: sha256:b7bd18648f62fb2b8523ae6c58ac147da912d64c4437fe20c79ccaf00ef41c8a

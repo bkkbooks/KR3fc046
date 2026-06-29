@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc046/tls/v1/juan/49
+seq: 49
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 按水星三倍引數初均當壬故以壬卯邊均輪半徑卯乙邊本輪半徑卯角求得壬乙邊合乙甲邊本天半徑乙角又求得甲角按辛卯為均輪距本輪最近度若初均在壬則乙角為子辛於卯辛減乙角子卯初均在癸則乙角為丁辛於卯辛加乙角丁卯故求壬卯乙之壬乙邊必隨求乙角卯子或丁卯以為加減地也更以次輪之行度為之角以半徑為之邊其一邊自初均而得之於是有兩邊一角求得角而加減之是為次
+  hash: sha256:2cfb13e440674539924aee0c47bd7687fd7b588789e74717b02495ec67d12315
+metadata:
+  title: 釋輪
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc046.xml
+hash: sha256:0867314915d499398f9f72c71a5e89b4cac28be8d5dae19769a3c9812c892886

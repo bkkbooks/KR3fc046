@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR3fc046/tls/v1/markers/45
+seq: 45
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc046_tls_001-p26.s9}
+  - {type: line-break, offset: 0, content: '', id: KX_9_dup9, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: 'tls:seg', offset: 20, content: '', id: KR3fc046_tls_001-p26.s10}
+  - {type: line-break, offset: 20, content: '', id: KX_10_dup10, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: 'tls:seg', offset: 40, content: '', id: KR3fc046_tls_001-p26.s12}
+  - {type: line-break, offset: 40, content: '', id: KX_12_dup16, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: 'tls:seg', offset: 60, content: '', id: KR3fc046_tls_001-p26.s13}
+  - {type: line-break, offset: 60, content: '', id: KX_13_dup16, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: 'tls:seg', offset: 80, content: '', id: KR3fc046_tls_001-p26.s14}
+  - {type: line-break, offset: 80, content: '', id: KX_14_dup15, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  back: []
+hash: sha256:4b13da56920af3d64801e4d7a3cdd8567e1c18c8339d1e352ae34c18a4f6d160

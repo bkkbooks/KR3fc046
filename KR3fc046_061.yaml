@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc046/tls/v1/juan/61
+seq: 61
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自午歷丑歷丁至壬則壬子午為餘弧即弧背午寅壬即通弦於丁壬子午半周內減去壬子午餘丁壬為午界角其度四十五若在新輪正當寅卯為四十五度之半二十二度三十分故界角折半而得角也若以丁午全徑為半徑規為甲丙乙丁之大周其午角己丁亦四十五度之半視午界角之丁壬亦折半也壬與己一線若無平行之線則初均之角必為句股兩角併亦得外角又半行度之所餘而加減之以為角兩角一為正角矩之界以弦弦外之朒角與兩角之朒角等規之界以弦弦外之盈角與正角朒角相併等
+  hash: sha256:c9d2c1430c4e19ba3073316fc71aca5647e5b5931bb425f2a067e53a2f0e046b
+metadata:
+  title: 釋輪
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc046.xml
+hash: sha256:4a5711484874c5efbf89f6132731fc2bd85c2d0860a23bc21cbbb75f96a24d51

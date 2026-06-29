@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc046/tls/v1/juan/25
+seq: 25
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 於火星在最卑之遠㸃太陽在最卑測得其最小之半徑又於火星在最卑之近點太陽在最高測得其半徑較之最小之半徑有差故知有太陽高卑差也於火星與太陽同在最卑測得次輪最小之半徑又於太陽在最卑火星在最高測得次輪半徑與最小半徑有差故知有本天高卑差也太陽火星俱在最高則兩差相加爲半徑之度葢高卑之差視乎本天於是以均輪之心當本輪之徑過半徑者爲大矢不過半徑者爲小矢矢小則差小矢大則差大心在最高則當本輪全徑之端而差爲大之極在最卑當全徑之末而差爲小之極極
+  hash: sha256:2a74f3a265339673e951b021df5ef9e8bbcd95f95289f6e2d9f3fd884c32dad5
+metadata:
+  title: 釋輪
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc046.xml
+hash: sha256:6fa07564cf4737de4577cd3311fcf615ae6224a63e58e4f0b12aac3f56006c79

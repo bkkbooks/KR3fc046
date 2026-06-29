@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc046/tls/v1/juan/27
+seq: 27
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大極小之間以矢例之此半徑所以有小大而次輪所以割入日天也
+  hash: sha256:e8faa4b19ed0b5c43a8713e693112327dd6d1024f950146b102b566d7a54f399
+metadata:
+  title: 釋輪
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc046.xml
+hash: sha256:0a58d8b5d5f1349e59ebcef01b68f4aeb572749ddec369c227517155482737bd

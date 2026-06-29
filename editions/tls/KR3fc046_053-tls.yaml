@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc046/tls/v1/juan/53
+seq: 53
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 數按初均求得丙甲邊爲一邊卽前圖子甲次均輪適當次輪最遠無通弦之度以次輪全徑爲一邊其丙角己戌行度之所不及戌角丙辛亦非行度所合故行度爲角之法不可以據而必合甲乙二角以爲丙角也
+  hash: sha256:574da54efde7f3859e38dbdc56b7e9771b19bc14c97fd31aa1cb721f35de2167
+metadata:
+  title: 釋輪
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc046.xml
+hash: sha256:7959d1e9e58de3453b936ee76bcf2cfb4c831230ba496b83b4a4525c7d0b2cf9
