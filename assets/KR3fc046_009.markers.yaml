@@ -17,10 +17,8 @@ markers:
   - {type: line-break, offset: 83, content: '', id: KX_15_dup2, _xml_error: duplicate-id, _xml_original_id: KX_15}
   - {type: 'tls:seg', offset: 91, content: '', id: KR3fc046_tls_001-p5.s16}
   - {type: line-break, offset: 91, content: '', id: KX_16_dup2, _xml_error: duplicate-id, _xml_original_id: KX_16}
-  - {type: substitution, offset: 107, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'tls:seg', offset: 111, content: '', id: KR3fc046_tls_001-p5.s17}
   - {type: line-break, offset: 111, content: '', id: KX_17_dup2, _xml_error: duplicate-id, _xml_original_id: KX_17}
-  - {type: substitution, offset: 115, original: 卽, replacement: 即, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3192}}
   - {type: 'tls:seg', offset: 131, content: '', id: KR3fc046_tls_001-p5.s18}
   - {type: line-break, offset: 131, content: '', id: KX_18_dup2, _xml_error: duplicate-id, _xml_original_id: KX_18}
   - {type: 'tls:seg', offset: 141, content: '', id: KR3fc046_tls_001-p5.s19}
@@ -29,7 +27,5 @@ markers:
   - {type: line-break, offset: 162, content: '', id: KX_20_dup3, _xml_error: duplicate-id, _xml_original_id: KX_20}
   - {type: 'tls:seg', offset: 183, content: '', id: KR3fc046_tls_001-p5.s21}
   - {type: line-break, offset: 183, content: '', id: KX_21_dup3, _xml_error: duplicate-id, _xml_original_id: KX_21}
-  - {type: substitution, offset: 188, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
-  - {type: substitution, offset: 194, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   back: []
-hash: sha256:e72171ccfe9ae029ecb6f9702507b14d93fa3f3be3cc2e2c27aab53f005889f7
+hash: sha256:75c84d7bd4bfe1672427d43aa008c0735a4a19887851a1a90d369edd6bc60453
