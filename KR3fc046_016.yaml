@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 初未設均輪則次輪與本輪兩周相切旣分本輪爲均輪而均輪之周與次輪之周兩相切矣
-  hash: sha256:fc2e5dbb122143b145d196584ed37aa8cb5eaaf988146952cec48295798ac336
+  text: 初未設均輪則次輪與本輪兩周相切既分本輪為均輪而均輪之周與次輪之周兩相切矣
+  hash: sha256:d936a8bae2de934795f82a4d9832432b2d79e8be6f052e36393d75591e573e20
 metadata:
   title: 釋輪
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc046.xml
-hash: sha256:87b3e9c4e3cd11c3c13e6fbb043eb31259fa4298c8cda5259327b58a74f4d7e0
+hash: sha256:7f189c73c336b7ed56aace580e421166bad6f4402e5f8fd76f1526f83bd9a136

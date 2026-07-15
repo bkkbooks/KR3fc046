@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 按圖大者本輪小者均輪午甲子爲徑已庚未庚甲乙辰乙寅丙戌丙丑丁亥丁皆自最近抵半徑之線十二辰皆最近均輪心從最高左旋實體自最近右旋倍度所至與最近爲通弦而必與抵徑之線爲一直觀此可見
-  hash: sha256:65d7cc4d6979aedf7a665794c32492691e2f8926dc43cfca3f987ec46c56c4d7
+  text: 按圖大者本輪小者均輪午甲子為徑已庚未庚甲乙辰乙寅丙戌丙丑丁亥丁皆自最近抵半徑之線十二辰皆最近均輪心從最高左旋實體自最近右旋倍度所至與最近為通弦而必與抵徑之線為一直觀此可見
+  hash: sha256:34dc23597ee79ea418d45a3afa5acd55cd2e65c93162d017267a7ce79430ca9f
 metadata:
   title: 釋輪
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc046.xml
-hash: sha256:b847ab82313828ba7f1250bcb8c68a1a82193b9d32872a9f23783e92cea1d0ff
+hash: sha256:98c84d518acde919ac9581facb33aea865d01f2334ea4e359e61a334e7acec77
